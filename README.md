@@ -16,6 +16,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 **Como me encontrar**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:leonardo.martins161@etec.sp.gov.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)]leonardo.martins161@etec.sp.gov.br)
 ---
 Sempre aprendendo e evoluindo como desenvolvedor.
